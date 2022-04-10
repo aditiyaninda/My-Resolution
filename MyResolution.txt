@@ -1,4 +1,4 @@
 Resolusi
 - Konsisten untuk mempelajari beberapa tools
 - Membuat catatan khusus terkait beberapa software
-- Mengikuti pelatihan dengan tutor yang sudah ahli dibidangnya
+- Mengikuti webinar tentang data science
